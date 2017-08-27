@@ -208,6 +208,7 @@ assign [class="Chromium"] $ws3
 assign [class="Firefox"] $ws3
 assign [class="Opera"] $ws3
 assign [class="Vivaldi-stable"] $ws3
+assign [class="skypeforlinux"] $ws3
 
 # media workspace
 assign [class="vlc"] $ws4
@@ -220,12 +221,14 @@ assign [class="Terminator"] $ws5
 assign [class="Gimp"] $ws6
 assign [class="Inkscape"] $ws6
 assign [class="Scribus"] $ws6
+assign [class="Darktable"] $ws6
 
 # VMs workspace
 assign [class="VirtualBox"] $ws7
 
 # Misc Workspace
 assign [class="Stacer"] $ws8
+assign [class="Pamac-manager"] $ws8
 
 # assign [class="Pcmanfm"] $ws3
 # assign [class="Skype"] $ws5
@@ -253,7 +256,7 @@ for_window [class="qt5ct"] floating enable sticky enable border normal
 for_window [class="Qtconfig-qt4"] floating enable sticky enable border normal
 for_window [class="Simple-scan"] floating enable border normal
 for_window [class="(?i)System-config-printer.py"] floating enable border normal
-for_window [class="Skype"] floating enable border normal
+for_window [class="skypeforlinux"] floating enable border normal
 for_window [class="Thus"] floating enable border normal
 for_window [class="Timeset-gui"] floating enable border normal
 for_window [class="(?i)virtualbox"] floating enable border normal
