@@ -272,6 +272,7 @@ for_window [title="DTA"] floating enable border normal
 for_window [title="Add Downloads"] floating enable border normal
 for_window [title=".*DownThemAll!"] floating enable border normal
 for_window [title="About Mozilla Firefox"] floating enable
+for_window [title=".*Write:"] floating enable border normal
 #for_window [class="jetbrains-studio"] floating enable border normal
 
 # switch to workspace with urgent window automatically
