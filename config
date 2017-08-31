@@ -264,8 +264,14 @@ for_window [class="Xfburn"] floating enable
 
 for_window [class="TelegramDesktop"] floating enable border normal
 for_window [class="TeamViewer"] floating enable border normal
-for_window [class="Stacer"] floating enable border normal
 for_window [class="GitKraken"] floating enable border normal
+for_window [class="Stacer"] floating enable border normal
+for_window [title="Google Keep"] floating enable border normal
+for_window [class="jetbrains-idea-ce"] floating enable border normal
+for_window [title="DTA"] floating enable border normal
+for_window [title="Add Downloads"] floating enable border normal
+for_window [title=".*DownThemAll!"] floating enable border normal
+for_window [title="About Mozilla Firefox"] floating enable
 #for_window [class="jetbrains-studio"] floating enable border normal
 
 # switch to workspace with urgent window automatically
